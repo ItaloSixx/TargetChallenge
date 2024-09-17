@@ -25,7 +25,7 @@ Verifica se um número informado pertence à sequência de Fibonacci e retorna u
 Inverte os caracteres de uma string fornecida. A solução evita o uso de funções prontas para realizar a inversão.
 
 ### 5. `SomaCalculadora.java`
-Realiza o cálculo da soma dos valores em um vetor de faturamento diário e determina o menor e maior valor, além da quantidade de dias com faturamento superior à média.
+Calcula a soma dos primeiros `n` números inteiros positivos.
 
 ## Tecnologias Utilizadas
 
