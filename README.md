@@ -8,7 +8,6 @@ Bem-vindo ao repositório do **Desafio de Estágio** da **Target**. Este reposit
 Este programa realiza os seguintes cálculos com base em um vetor de faturamento diário:
 - Menor valor de faturamento
 - Maior valor de faturamento
-- Média de faturamento
 - Número de dias com faturamento superior à média
 
 ### 2. `FaturamentoDistribuidora.java`
